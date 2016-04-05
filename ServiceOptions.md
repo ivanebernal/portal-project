@@ -1,5 +1,8 @@
+Considerations:
+By the legal implicance we must consider the security of the streaming and 3rd party services that may access to the streaming inside the company which is not desirable.
 
-BAD OPTIONS BY ITS LIMITATIONS
+
+Options & Limitations
 
 
 Hangouts by Google 
@@ -25,6 +28,12 @@ depending upon device and associated system requirements.
 You can find more details at www.skype.com/go/gvc.
 
 ************************************************************************************************
+
+Youtube by Google
+(www.youtube.com)
+
+Limitations:
+
 
 
 
