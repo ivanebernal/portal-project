@@ -14,7 +14,7 @@ office through a regular home-like window.
 
 **Why Kitchen Window?**
 
-In Nearsoft the culture its very important, it is consider as one of their main pilars, and by having it offices in   
+In Nearsoft the culture it's very important, it is consider as one of their main pilars, and by having offices in   
 different cities is difficult to maintain the same culture over all of them, so Kitchen Window is a way for having a direct  
 connection in real time with the three offices so people of Nearsoft can share its culture more naturally. 
 
