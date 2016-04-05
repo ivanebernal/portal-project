@@ -1,9 +1,11 @@
 Considerations:
-By the legal implicance we must consider the security of the streaming and 3rd party services that may access to the streaming inside the company which is not desirable.
-
+By the legal implicance we must consider the security of the streaming and 3rd party services 
+that may access to the streaming inside the company which is not desirable.
+***********************************************************************************************
 
 Options & Limitations
 
+***********************************************************************************************
 
 Hangouts by Google 
 (https://plus.google.com/hangouts/)
