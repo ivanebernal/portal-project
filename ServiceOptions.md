@@ -1,25 +1,27 @@
-Considerations:
+**Considerations:**
 By the legal implicance we must consider the security of the streaming and 3rd party services 
 that may access to the streaming inside the company which is not desirable.
 ***********************************************************************************************
 
-Options & Limitations
+**Options & its Limitations**
 
 ***********************************************************************************************
 
-Hangouts by Google 
+**Hangouts**
+by Google 
 (https://plus.google.com/hangouts/)
 
-Limitations:
+**Limitations:**
 Hangouts can only stream 8 hours straight (per session)
 https://support.google.com/plus/answer/2459411?hl=en
 
 **********************************************************************************************
 
-Skype by Microsoft
+**Skype**
+by Microsoft
 (https://www.skype.com)
 
-Limitations:
+**Limitations:**
 Group video calls are subject to a fair usage limit of 100 hours per month 
 with no more than 10 hours per day and a limit of 4 hours per individual video call. 
 Once these limits have been reached, the video will switch off and the call will convert to an audio call. 
@@ -31,10 +33,7 @@ You can find more details at www.skype.com/go/gvc.
 
 ************************************************************************************************
 
-Youtube by Google
-(www.youtube.com)
 
-Limitations:
 
 
 
