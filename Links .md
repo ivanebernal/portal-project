@@ -1,6 +1,7 @@
 
 Google Docs 
 
+Access this link for the Google Doc Project of Kitchen Window 
 [Project Research Document Links](https://docs.google.com/spreadsheets/d/1B_ac6SAHByAPsVrZr-5sE5_SiNu2dBSdgbupWG98eHY/edit?ts=5703ff73#gid=0)
 
 
