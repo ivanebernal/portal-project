@@ -1,5 +1,7 @@
 //TODO's 
 
+## Documentation of the Activities @ [Trello Kitchen Window Project](https://trello.com/b/rgHBoQwM/window-kitchen) 
+
 TEAMWORK = SUCCESS
 
 -Investigate how other organization implemented similar solutions.
