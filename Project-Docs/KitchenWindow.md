@@ -8,9 +8,7 @@
 
 **What is Kitchen Window?**
 
-Kitchen window is a project to establish audiovisual communication in real time between three Nearsoft offices   
-located on different cities, using a screen embedded in a  window frame to simulate that you are looking the other   
-office through a regular home-like window.
+Kitchen window is a project to establish real-time communication between  two Nearsoft offices each located on different cities through an audiovisual system build as a kitchen window offering a comfortable interface and a pleasant experience.
 
 **Why Kitchen Window?**
 
