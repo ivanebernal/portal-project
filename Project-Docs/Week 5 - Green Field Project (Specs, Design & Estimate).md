@@ -9,23 +9,25 @@ d) W4: V1.0
   
 must-have:  
 1) General:  
-a) Documentation  
-i) Project information, What? , Why? , Who?, How?  
-ii) Getting started guide - user & developer  
-iii) How to Deploy  
-b) Healthy Test Suite ( Unit & Integration Test )   
-c) Authentication & Encryption  (state of the art )   
-2) Tech Requirements:  
-a) Live Streaming Video  
-b) Automation  
+  a) Documentation  
+    i) Project information, What? , Why? , Who?, How?  
+    ii) Getting started guide - user & developer  
+    iii) How to Deploy  
   
-   
+  b) Healthy Test Suite ( Unit & Integration Test )   
+  
+  c) Authentication & Encryption  (state of the art )   
+
+2) Tech Requirements:  
+  a) Live Streaming Video  
+  b) Automation  
+  
 3) Agile Practices  
-a) Pair programing  
-b) Daily Meetings  
-c) Big Visible Charts  
-d) User stories  
-e) Social Contract  
+  a) Pair programing  
+  b) Daily Meetings  
+  c) Big Visible Charts  
+  d) User stories  
+  e) Social Contract  
   
   
 Watch  
