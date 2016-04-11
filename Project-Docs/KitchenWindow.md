@@ -1,4 +1,4 @@
-#Kitchen Window
+#Portal NS
 
 ## 1) General
 
@@ -6,24 +6,31 @@
 
 >#####  I. Project Information
 
-**What is Kitchen Window?**
+**What is Portal NS?**
 
-Kitchen window is a project to establish real-time communication between  two Nearsoft offices each located on different cities through an audiovisual system build as a kitchen window offering a comfortable interface and a pleasant experience.
+Portal NS is a project to establish real-time communication between the Nearsoft offices each located on different cities through an audiovisual system build as a sci-fi portal offering a realistic interface and a pleasant experience.
+
 
 **Why Kitchen Window?**
 
-In Nearsoft the culture it's very important, it is consider as one of their main pilars, and by having offices in   
-different cities is difficult to maintain the same culture over all of them, so Kitchen Window is a way for having a direct  
-connection in real time with the three offices so people of Nearsoft can share its culture more naturally. 
+In Nearsoft, the culture is very important, it is considered one of the main pillars, and by having offices in different cities is difficult to maintain the same culture over all of them, so Portal NS is a way for having a direct connection with all the offices, so the Nearsoftians can share its culture more naturally just by cohabiting.
 
 **Who are involved in Kitchen Window?**
 
 It is a project developed by the interns of the **Nearsoft Academy** (2016-I)  
 to be used by all the Nersoftians in the three Nearsoft offices (Hermosillo, Chihuahua & Mexico City).
 
-**How Kitchen Window works?**
+**How Kitchen Portal NS?**
 
-..not yet defined..
+Portal NS is a “permanent” streaming through the offices of Nearsoft, the streaming will be sent through the Nearsoft internal infrastructure in a secure way, the streaming is broadcasted through an audiovisual communication set build as a portal. 
+
+**Features of Portal NS**
+The main features of Portal NS are the following:
+
+ -Realistic design to blend with the environment.  
+ -Easy on/off switch.  
+ -Uninterrupted video and voice communication.  
+ -Secure & encrypted communication.  
 
 
 >#####  II. Guetting Started Guide - User & Developer
