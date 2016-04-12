@@ -6,6 +6,9 @@
 [Draft - Documento para Sensei V 1.0 ](https://docs.google.com/document/d/1u0vIE6sWrZbYWFJKBBijRqUblkMaZ9GLFwLkpJJcRs0/edit)
 ***********************************************************************************************
 
+[Social Contract v.1](https://docs.google.com/document/d/1Q3cmOrNxaMNZZaESAUkLBoGNvBsbCkIDvvg5hQK6wGM/edit)
+
+***********************************************************************************************
 
 **Considerations:**
 By the legal implicance we must consider the security of the streaming using 3rd party services 
